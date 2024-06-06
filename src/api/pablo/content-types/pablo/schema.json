@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pablos",
+  "info": {
+    "singularName": "pablo",
+    "pluralName": "pablos",
+    "displayName": "Pablo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Peso": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
